@@ -2,9 +2,8 @@
 Original After Chapter 4 excercise files
 Runnig in IntelliJ Ultimate
 
-I have added Tomcat following instructions in your another course. See the screenshoot.
-Server is running, Hello World! is shown in browser. 
-Output when after Tomcat is executed:
+I have added Tomcat into ths project following instructions in your another course. Edit configurations should have been uploaded with project. Server is working/running, Hello World! is shown in browser. However after executing Tomcat there is exception in the output in the console.
+
 C:\dev\tools\apache-tomcat-9.0.34\bin\catalina.bat run
 [2020-05-08 05:54:08,505] Artifact ride_tracker.war: Waiting for server connection to start artifact deployment...
 Using CATALINA_BASE:   "C:\Users\Pet\AppData\Local\JetBrains\IntelliJIdea2020.1\tomcat\Tomcat_9_0_34_ride_tracker_2"
@@ -93,7 +92,7 @@ Connected to server
 
 
 
-Output after testCreateRide() is run:
+Output after testCreateRide() is run, it doesnt work.
 
 org.springframework.web.client.HttpServerErrorException: 500 Internal Server Error
 
