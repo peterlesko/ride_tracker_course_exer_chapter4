@@ -1,0 +1,7 @@
+com\pluralsight\controller\RideController.class
+com\pluralsight\repository\util\RideRowMapper.class
+com\pluralsight\repository\RideRepositoryImpl.class
+com\pluralsight\model\Ride.class
+com\pluralsight\repository\RideRepository.class
+com\pluralsight\service\RideService.class
+com\pluralsight\service\RideServiceImpl.class
